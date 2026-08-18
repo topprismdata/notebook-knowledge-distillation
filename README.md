@@ -80,9 +80,9 @@ Measured improvement
 -   distillation can remove nuance;
 -   skill trigger design can cause false activation;
 -   copyrighted / confidential source material must not be republished
-    improperly.
-
-Add source-handling and IP guidance.
+    improperly;
+-   source-handling and IP rules must be reviewed before ingesting
+    external documents.
 
 ------------------------------------------------------------------------
 
