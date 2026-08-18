@@ -1,33 +1,37 @@
 topprism:
-  purpose: native_ai
+  purpose: native-ai
   capability: source_to_skill_distillation
-  platform_layer: organizational_intelligence
-  maturity: internal_utility
+  platform_layer: organizational-intelligence
+  maturity: internal-utility
   evidence:
-    type: internal_evaluation
-    scope: "TopPrism internal skill-tester score 8.75/10 (Documentation 9, Code/Scripts 8, Completeness 9, Usability 9)"
-    notes: "TopPrism internal skill-tester score, not an external industry benchmark"
+    type: internal-evaluation
+    source: topprism-internal-skill-tester
+    scope: >-
+      TopPrism internal skill-tester score 8.75/10 (Documentation 9,
+      Code/Scripts 8, Completeness 9, Usability 9). Not an external
+      industry benchmark.
+    status: topprism-internal
   related:
-    - skill_tester
-    - agent_nurture_framework
+    - skill-tester
+    - agent-nurture-framework
 
 business_question:
   en: >-
-    How can a collection of external sources become a validated reusable
-    agent skill, rather than simply copying unverified notes into agent
-    memory?
+    How can a collection of external sources become a validated
+    reusable agent skill, rather than simply copying unverified notes
+    into agent memory?
   zh: >-
     一个外部资料集合，如何转化为经过验证的可复用 Agent Skill，而不是
     简单地把未经验证的笔记复制进 Agent 记忆？
 
 platform:
-  system: native_ai
-  layer: organizational_intelligence
-  solution: source_to_skill_distillation
+  system: native-ai
+  layer: organizational-intelligence
+  solution: source-to-skill-distillation
 
 website:
-  product_path: /native-ai/notebook-knowledge-distillation
-  evidence_path: /evidence/notebook-knowledge-distillation
+  status: planned
+  path: /native-ai/notebook-knowledge-distillation
 
 repository:
   owner: topprismdata
