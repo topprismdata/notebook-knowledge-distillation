@@ -4,6 +4,12 @@
 
 # Notebook Knowledge Distillation
 
+> **Language / 语言:** English primary · 中文概览如下。
+>
+> ### 中文概览
+> 将外部资料转化为经过验证、可复用的 Agent 能力，避免把未经核验的笔记直接写入组织记忆。
+
+
 **A source-to-skill workflow for converting external knowledge into
 validated reusable agent capability.**
 
